@@ -2,10 +2,12 @@
 
 Es un programa donde nos permite hacer operaciones basicas en la consola como:
 
-> 1.  Buscar un archivo en el sistema
+> 1. Creacion de carpetas de trabajo en cmd
 
-> 2.  Crear un archivo o carpeta
+> 2. Ordenar archivos en cmd
 
-> 3.  Ordenar archivos
+> 3. Buscar archivos en cmd
 
-> 5.  Limpiar la consola
+> 4. Eliminar archivos y carpetas en cmd
+
+> 5. Limpiar el cmd
